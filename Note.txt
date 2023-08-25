@@ -1,0 +1,1 @@
+This is initial Setup for NextJS.13 server component concept.
